@@ -1,5 +1,5 @@
 {
-    "name": "greenpacket/kiplepay",
+    "name": "mprince/kiplepay",
     "description": "The SDK mainly shows how to access the kiplepay gateway.",
     "type": "library",
     "require": {
