@@ -4,7 +4,7 @@
 ## Installing
 
 ```shell
-$ composer require greenpacket/kiplepay -vvv
+$ composer require mprince/kiplepay
 ```
 ## Contributing
 
